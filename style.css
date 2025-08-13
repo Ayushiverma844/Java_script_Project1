@@ -30,6 +30,9 @@ body {
   align-items: center;
   gap: 50px;
 }
+#nav-part2 a{
+  text-decoration:none;
+}
 
 #nav h3 {
   font-size: 20px;
@@ -47,6 +50,8 @@ body {
   position: relative;
   z-index: 9;
 }
+
+
 
 #main h1:nth-child(2) {
   margin-top: 160px;
